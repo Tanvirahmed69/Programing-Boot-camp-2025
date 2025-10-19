@@ -1,0 +1,1 @@
+#Print last character of string
