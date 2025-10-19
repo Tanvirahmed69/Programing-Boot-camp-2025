@@ -1,4 +1,6 @@
 ##Convert "3.14" to float
 
-x=float("3.14")
-print('x:')
+num=float("3.14")
+        
+print("X:" ,num)
+print("Y:",type(num))
