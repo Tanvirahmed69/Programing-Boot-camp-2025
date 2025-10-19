@@ -3,17 +3,10 @@
 text = "Finland"
 
 # Get the first character
-first_char = text[0]
+first = text[0]
 
 # Print the result
-print("The first character is:", first_char)
-
-
-
-
-
-
-
+print("The first character is:", first)
 
 
 word='Bangladesh'
