@@ -1,7 +1,7 @@
 ###Check if char is vowel (a, e, i, o, u)
 
 
-name='a'
+name='b'
 
 if name in ['a', 'e', 'i', 'o', 'u']:
     print( 'is a vowel')     
