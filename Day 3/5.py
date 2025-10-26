@@ -1,8 +1,12 @@
 ###Check if char is vowel (a, e, i, o, u)
 
 
-char='a'
-if char in ('a', 'e', 'i', 'o', 'u'):
-    print("Vowel")
+name='tanvir'
+
+        if name in ['a', 'e', 'i', 'o', 'u']:
+                print( 'is a vowel')
+        
+        
 else:
-    print("not vowel")
+        print( 'is a consonant')
+        
