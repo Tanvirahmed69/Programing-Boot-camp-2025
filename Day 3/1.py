@@ -1,6 +1,6 @@
 ###Check if number > 0 → print "Positive"
 
-number = float(input("Enter a number: "))
+number =1
 
 if number > 0:
     print("Positive")
