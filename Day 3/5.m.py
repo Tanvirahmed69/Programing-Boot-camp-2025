@@ -1,0 +1,1 @@
+##Check if char is uppercase
