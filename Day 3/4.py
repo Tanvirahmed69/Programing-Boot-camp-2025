@@ -1,5 +1,6 @@
 ##Check if two numbers are equal
 
-number=2
-if number ==2:
+a=2
+b=2
+if a ==b:
     print("True")
